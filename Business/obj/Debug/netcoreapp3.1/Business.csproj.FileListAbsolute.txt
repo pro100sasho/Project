@@ -1,0 +1,12 @@
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Business\bin\Debug\netcoreapp3.1\Business.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Business\bin\Debug\netcoreapp3.1\Business.pdb
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Business\bin\Debug\netcoreapp3.1\Data.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Business\bin\Debug\netcoreapp3.1\Data.pdb
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Business\obj\Debug\netcoreapp3.1\Business.csprojAssemblyReference.cache
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Business\obj\Debug\netcoreapp3.1\Business.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Business\obj\Debug\netcoreapp3.1\Business.pdb

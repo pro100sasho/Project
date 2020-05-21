@@ -1,0 +1,9 @@
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Data\bin\Debug\netcoreapp3.1\Data.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Data\bin\Debug\netcoreapp3.1\Data.pdb
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Data\obj\Debug\netcoreapp3.1\Data.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Data\obj\Debug\netcoreapp3.1\Data.pdb
