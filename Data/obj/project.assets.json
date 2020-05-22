@@ -643,11 +643,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\I.T. Career\\2ра година\\2020 IT Career Project allOver\\Data\\Data.csproj",
+      "projectUniqueName": "D:\\I.T. Career\\2ра година\\2020 IT Career Project allOver\\Project\\Data\\Data.csproj",
       "projectName": "Data",
-      "projectPath": "D:\\I.T. Career\\2ра година\\2020 IT Career Project allOver\\Data\\Data.csproj",
+      "projectPath": "D:\\I.T. Career\\2ра година\\2020 IT Career Project allOver\\Project\\Data\\Data.csproj",
       "packagesPath": "C:\\Users\\Алекс\\.nuget\\packages\\",
-      "outputPath": "D:\\I.T. Career\\2ра година\\2020 IT Career Project allOver\\Data\\obj\\",
+      "outputPath": "D:\\I.T. Career\\2ра година\\2020 IT Career Project allOver\\Project\\Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -9367,11 +9367,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\I.T. Career\\2ра година\\2020 IT Career Project allOver\\Web_Stock_Market\\Web_Stock_Market.csproj",
+      "projectUniqueName": "D:\\I.T. Career\\2ра година\\2020 IT Career Project allOver\\Project\\Web_Stock_Market\\Web_Stock_Market.csproj",
       "projectName": "Web_Stock_Market",
-      "projectPath": "D:\\I.T. Career\\2ра година\\2020 IT Career Project allOver\\Web_Stock_Market\\Web_Stock_Market.csproj",
+      "projectPath": "D:\\I.T. Career\\2ра година\\2020 IT Career Project allOver\\Project\\Web_Stock_Market\\Web_Stock_Market.csproj",
       "packagesPath": "C:\\Users\\Алекс\\.nuget\\packages\\",
-      "outputPath": "D:\\I.T. Career\\2ра година\\2020 IT Career Project allOver\\Web_Stock_Market\\obj\\",
+      "outputPath": "D:\\I.T. Career\\2ра година\\2020 IT Career Project allOver\\Project\\Web_Stock_Market\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -9390,11 +9390,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\I.T. Career\\2ра година\\2020 IT Career Project allOver\\Business\\Business.csproj": {
-              "projectPath": "D:\\I.T. Career\\2ра година\\2020 IT Career Project allOver\\Business\\Business.csproj"
+            "D:\\I.T. Career\\2ра година\\2020 IT Career Project allOver\\Project\\Business\\Business.csproj": {
+              "projectPath": "D:\\I.T. Career\\2ра година\\2020 IT Career Project allOver\\Project\\Business\\Business.csproj"
             },
-            "D:\\I.T. Career\\2ра година\\2020 IT Career Project allOver\\Data\\Data.csproj": {
-              "projectPath": "D:\\I.T. Career\\2ра година\\2020 IT Career Project allOver\\Data\\Data.csproj"
+            "D:\\I.T. Career\\2ра година\\2020 IT Career Project allOver\\Project\\Data\\Data.csproj": {
+              "projectPath": "D:\\I.T. Career\\2ра година\\2020 IT Career Project allOver\\Project\\Data\\Data.csproj"
             }
           }
         }

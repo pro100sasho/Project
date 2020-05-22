@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WxvE7npoxdmKQjhPJO57n5b61kn08LUwlkjs4ivo4p6b4XLfE3OkQpm3O/o5jLwo3SN5vdXXHNeZm5IHhRQ+Pw==",
+  "dgSpecHash": "6yBh0Ez8rje3GNOuXkc1ywIIZ36MnvXDl5jx6vn6jd26hyH6pn3iaRR0k5CJvCLmsUQE/UH+0XXmATZ52I6Mxg==",
   "success": true,
-  "projectFilePath": "D:\\I.T. Career\\2ра година\\2020 IT Career Project allOver\\Data\\Data.csproj",
+  "projectFilePath": "D:\\I.T. Career\\2ра година\\2020 IT Career Project allOver\\Project\\Data\\Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Алекс\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Алекс\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

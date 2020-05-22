@@ -23,7 +23,7 @@ namespace Web_Stock_Market
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
-            services.AddTransient<UserServices, UserServices>();
+            services.AddTransient<ProductServices, ProductServices>();
             services.AddDbContext<AppDbContext>(opt =>
             {
                 opt.UseMySQL(Configuration.GetConnectionString("DEV"));

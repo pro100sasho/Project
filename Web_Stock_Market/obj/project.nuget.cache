@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XzubMv8DmV7QXMtqt47By0gYcBJQbbwk/B1Z/ahyUPAkZqq10wsHre7I7aHQZ2d1KCviYa00j2gkO9IaH0c8gA==",
+  "dgSpecHash": "UcXbXQXZpfsAc/PoYTvHX/a97Pc17oXtwWjxpFuj2wuNjc3Q/qp4KZs+RR44LLToWx7UYKVudPf8mBpxy/VC+g==",
   "success": true,
-  "projectFilePath": "D:\\I.T. Career\\2ра година\\2020 IT Career Project allOver\\Web_Stock_Market\\Web_Stock_Market.csproj",
+  "projectFilePath": "D:\\I.T. Career\\2ра година\\2020 IT Career Project allOver\\Project\\Web_Stock_Market\\Web_Stock_Market.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Алекс\\.nuget\\packages\\bouncycastle.netcore\\1.8.3\\bouncycastle.netcore.1.8.3.nupkg.sha512",
     "C:\\Users\\Алекс\\.nuget\\packages\\google.protobuf\\3.6.1\\google.protobuf.3.6.1.nupkg.sha512",

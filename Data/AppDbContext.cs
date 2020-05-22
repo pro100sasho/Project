@@ -1,4 +1,5 @@
 ﻿using Data.Entities;
+using Data.Entities.DTOs;
 using Microsoft.EntityFrameworkCore;
 using System;
 
@@ -6,7 +7,7 @@ namespace Data
 {
     public class AppDbContext : DbContext
     {
-        public DbSet<User> Users { get; set; }
+        public DbSet<Product> Products { get; set; }
 
         public AppDbContext(DbContextOptions options)
             : base(options)
@@ -16,14 +17,10 @@ namespace Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<User>(entity =>
+            modelBuilder.Entity<ProductDto>(entity =>
             {
-                entity.HasIndex(e => e.Username).IsUnique();
-            });
-            modelBuilder.Entity<User>(entity =>
-            {
-                entity.HasIndex(e => e.Email).IsUnique();
-            });
+                entity.HasIndex(e => e.Name).IsUnique();
+            });            
         }
     }
 }
