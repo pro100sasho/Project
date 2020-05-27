@@ -4,7 +4,7 @@ using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 using System.Text;
 
-namespace Data.Entities.DTOs
+namespace Data.Models
 {
     public class ProductDto
     {

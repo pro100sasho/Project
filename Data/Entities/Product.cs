@@ -14,8 +14,10 @@ namespace Data.Entities
         [Required]
         public string Name { get; set; }
 
+        [Range(0, int.MaxValue)]
         public int Quantity { get; set; }
 
+        [Range(0, double.MaxValue)]
         [DefaultValue(0.00)]
         public decimal Price { get; set; }
     }

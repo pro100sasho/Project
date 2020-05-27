@@ -1,7 +1,7 @@
 ﻿using Business;
 using Data;
 using Data.Entities;
-using Data.Entities.DTOs;
+using Data.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 using System.Linq;

@@ -12,6 +12,7 @@ namespace Web_Stock_Market.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+ 
 
         public HomeController(ILogger<HomeController> logger)
         {
@@ -24,6 +25,10 @@ namespace Web_Stock_Market.Controllers
         }
 
         public IActionResult Privacy()
+        {
+            return View();
+        }
+        public IActionResult Profile()
         {
             return View();
         }

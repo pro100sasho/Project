@@ -368,3 +368,381 @@ D:\I.T. Career\2ра година\2020 IT Career Project allOver\Project\Web_Sto
 D:\I.T. Career\2ра година\2020 IT Career Project allOver\Project\Web_Stock_Market\obj\Debug\netcoreapp3.1\staticwebassets\Web_Stock_Market.StaticWebAssets.Manifest.cache
 D:\I.T. Career\2ра година\2020 IT Career Project allOver\Project\Web_Stock_Market\obj\Debug\netcoreapp3.1\staticwebassets\Web_Stock_Market.StaticWebAssets.xml
 D:\I.T. Career\2ра година\2020 IT Career Project allOver\Project\Web_Stock_Market\obj\Debug\netcoreapp3.1\Web_Stock_Market.genruntimeconfig.cache
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\appsettings.json
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Web_Stock_Market.exe
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Web_Stock_Market.deps.json
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Web_Stock_Market.runtimeconfig.json
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Web_Stock_Market.runtimeconfig.dev.json
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Web_Stock_Market.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Web_Stock_Market.pdb
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Web_Stock_Market.Views.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Web_Stock_Market.Views.pdb
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\MySql.Data.EntityFrameworkCore.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Business.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Data.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Business.pdb
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\bin\Debug\netcoreapp3.1\Data.pdb
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\obj\Debug\netcoreapp3.1\Web_Stock_Market.csprojAssemblyReference.cache
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\obj\Debug\netcoreapp3.1\Web_Stock_Market.AssemblyInfoInputs.cache
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\obj\Debug\netcoreapp3.1\Web_Stock_Market.AssemblyInfo.cs
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\obj\Debug\netcoreapp3.1\Web_Stock_Market.csproj.CoreCompileInputs.cache
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\obj\Debug\netcoreapp3.1\Web_Stock_Market.MvcApplicationPartsAssemblyInfo.cache
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\obj\Debug\netcoreapp3.1\Web_Stock_Market.RazorAssemblyInfo.cache
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\obj\Debug\netcoreapp3.1\Web_Stock_Market.RazorAssemblyInfo.cs
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\obj\Debug\netcoreapp3.1\Web_Stock_Market.TagHelpers.input.cache
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\obj\Debug\netcoreapp3.1\Web_Stock_Market.TagHelpers.output.cache
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\obj\Debug\netcoreapp3.1\Web_Stock_Market.RazorCoreGenerate.cache
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\obj\Debug\netcoreapp3.1\Razor\Views\Product\Delete.cshtml.g.cs
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\obj\Debug\netcoreapp3.1\Web_Stock_Market.RazorTargetAssemblyInfo.cache
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\obj\Debug\netcoreapp3.1\Web_Stock_Market.RazorTargetAssemblyInfo.cs
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\obj\Debug\netcoreapp3.1\Web_Stock_Market.Views.pdb
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\obj\Debug\netcoreapp3.1\Web_Stock_Market.csproj.CopyComplete
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\obj\Debug\netcoreapp3.1\staticwebassets\Web_Stock_Market.StaticWebAssets.Manifest.cache
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\obj\Debug\netcoreapp3.1\staticwebassets\Web_Stock_Market.StaticWebAssets.xml
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\obj\Debug\netcoreapp3.1\Web_Stock_Market.dll
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\obj\Debug\netcoreapp3.1\Web_Stock_Market.pdb
+D:\IT kariera\Projects\Oficial project\Project-master\Web_Stock_Market\obj\Debug\netcoreapp3.1\Web_Stock_Market.genruntimeconfig.cache
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\appsettings.json
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Web_Stock_Market.exe
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Web_Stock_Market.deps.json
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Web_Stock_Market.runtimeconfig.json
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Web_Stock_Market.runtimeconfig.dev.json
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Web_Stock_Market.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Web_Stock_Market.pdb
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Web_Stock_Market.Views.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Web_Stock_Market.Views.pdb
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\MySql.Data.EntityFrameworkCore.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Business.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Data.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Business.pdb
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Data.pdb
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\obj\Debug\netcoreapp3.1\Web_Stock_Market.csprojAssemblyReference.cache
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\obj\Debug\netcoreapp3.1\Web_Stock_Market.RazorAssemblyInfo.cache
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\obj\Debug\netcoreapp3.1\Web_Stock_Market.RazorAssemblyInfo.cs
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\obj\Debug\netcoreapp3.1\Web_Stock_Market.AssemblyInfoInputs.cache
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\obj\Debug\netcoreapp3.1\Web_Stock_Market.AssemblyInfo.cs
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\obj\Debug\netcoreapp3.1\Web_Stock_Market.TagHelpers.input.cache
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\obj\Debug\netcoreapp3.1\Web_Stock_Market.TagHelpers.output.cache
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\obj\Debug\netcoreapp3.1\Web_Stock_Market.RazorCoreGenerate.cache
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\obj\Debug\netcoreapp3.1\Razor\Views\Product\Delete.cshtml.g.cs
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\obj\Debug\netcoreapp3.1\Web_Stock_Market.RazorTargetAssemblyInfo.cache
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\obj\Debug\netcoreapp3.1\Web_Stock_Market.RazorTargetAssemblyInfo.cs
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\obj\Debug\netcoreapp3.1\Web_Stock_Market.Views.pdb
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\obj\Debug\netcoreapp3.1\Web_Stock_Market.csproj.CopyComplete
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\obj\Debug\netcoreapp3.1\staticwebassets\Web_Stock_Market.StaticWebAssets.Manifest.cache
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\obj\Debug\netcoreapp3.1\staticwebassets\Web_Stock_Market.StaticWebAssets.xml
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\obj\Debug\netcoreapp3.1\Web_Stock_Market.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\obj\Debug\netcoreapp3.1\Web_Stock_Market.pdb
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\obj\Debug\netcoreapp3.1\Web_Stock_Market.genruntimeconfig.cache
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\obj\Debug\netcoreapp3.1\Razor\Views\User\Login.cshtml.g.cs
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\obj\Debug\netcoreapp3.1\Razor\Views\User\Register.cshtml.g.cs
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\obj\Debug\netcoreapp3.1\Razor\Views\Home\Profile.cshtml.g.cs
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\obj\Debug\netcoreapp3.1\Web_Stock_Market.csproj.CoreCompileInputs.cache
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\obj\Debug\netcoreapp3.1\Web_Stock_Market.MvcApplicationPartsAssemblyInfo.cache

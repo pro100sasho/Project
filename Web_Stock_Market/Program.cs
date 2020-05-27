@@ -24,3 +24,4 @@ namespace Web_Stock_Market
                 });
     }
 }
+//Check Migrations, IdentityDbContext inheritence, ?Database link to the frontend part of the app?

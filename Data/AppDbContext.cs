@@ -1,5 +1,6 @@
 ﻿using Data.Entities;
-using Data.Entities.DTOs;
+using Data.Models;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System;
 
@@ -20,7 +21,7 @@ namespace Data
             modelBuilder.Entity<ProductDto>(entity =>
             {
                 entity.HasIndex(e => e.Name).IsUnique();
-            });            
+            });           
         }
     }
 }

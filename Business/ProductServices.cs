@@ -1,6 +1,6 @@
 ﻿using Data;
 using Data.Entities;
-using Data.Entities.DTOs;
+using Data.Models;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections;
@@ -71,7 +71,7 @@ namespace Business
                 }
                 else
                 {
-                    throw new Exception("Product could not be ubdated");
+                    throw new Exception("Product can not be updated");
                 }
             }
             return returnProduct;

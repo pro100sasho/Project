@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\I.T. Career\\2ра година\\2020 IT Career Project allOver\\Project\\Business\\Business.csproj": {}
+    "D:\\I.T. Career\\2ра година\\2020 IT Career Project allOver\\Last Version\\Project\\Business\\Business.csproj": {}
   },
   "projects": {
-    "D:\\I.T. Career\\2ра година\\2020 IT Career Project allOver\\Project\\Business\\Business.csproj": {
+    "D:\\I.T. Career\\2ра година\\2020 IT Career Project allOver\\Last Version\\Project\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\I.T. Career\\2ра година\\2020 IT Career Project allOver\\Project\\Business\\Business.csproj",
+        "projectUniqueName": "D:\\I.T. Career\\2ра година\\2020 IT Career Project allOver\\Last Version\\Project\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "D:\\I.T. Career\\2ра година\\2020 IT Career Project allOver\\Project\\Business\\Business.csproj",
+        "projectPath": "D:\\I.T. Career\\2ра година\\2020 IT Career Project allOver\\Last Version\\Project\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\Алекс\\.nuget\\packages\\",
-        "outputPath": "D:\\I.T. Career\\2ра година\\2020 IT Career Project allOver\\Project\\Business\\obj\\",
+        "outputPath": "D:\\I.T. Career\\2ра година\\2020 IT Career Project allOver\\Last Version\\Project\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\I.T. Career\\2ра година\\2020 IT Career Project allOver\\Project\\Data\\Data.csproj": {
-                "projectPath": "D:\\I.T. Career\\2ра година\\2020 IT Career Project allOver\\Project\\Data\\Data.csproj"
+              "D:\\I.T. Career\\2ра година\\2020 IT Career Project allOver\\Last Version\\Project\\Data\\Data.csproj": {
+                "projectPath": "D:\\I.T. Career\\2ра година\\2020 IT Career Project allOver\\Last Version\\Project\\Data\\Data.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "D:\\I.T. Career\\2ра година\\2020 IT Career Project allOver\\Project\\Data\\Data.csproj": {
+    "D:\\I.T. Career\\2ра година\\2020 IT Career Project allOver\\Last Version\\Project\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\I.T. Career\\2ра година\\2020 IT Career Project allOver\\Project\\Data\\Data.csproj",
+        "projectUniqueName": "D:\\I.T. Career\\2ра година\\2020 IT Career Project allOver\\Last Version\\Project\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "D:\\I.T. Career\\2ра година\\2020 IT Career Project allOver\\Project\\Data\\Data.csproj",
+        "projectPath": "D:\\I.T. Career\\2ра година\\2020 IT Career Project allOver\\Last Version\\Project\\Data\\Data.csproj",
         "packagesPath": "C:\\Users\\Алекс\\.nuget\\packages\\",
-        "outputPath": "D:\\I.T. Career\\2ра година\\2020 IT Career Project allOver\\Project\\Data\\obj\\",
+        "outputPath": "D:\\I.T. Career\\2ра година\\2020 IT Career Project allOver\\Last Version\\Project\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -106,9 +106,17 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[3.1.4, )"
+            },
+            "MySql.Data.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.20, )"
             }
           },
           "imports": [

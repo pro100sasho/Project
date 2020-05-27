@@ -1,12 +1,15 @@
 using Business;
 using Data;
+using Data.Entities;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using System;
+using Web_Stock_Market.Controllers;
 
 namespace Web_Stock_Market
 {
@@ -24,10 +27,27 @@ namespace Web_Stock_Market
         {
             services.AddControllersWithViews();
             services.AddTransient<ProductServices, ProductServices>();
+            services.AddIdentity<User, IdentityRole>(opt =>
+            {
+                opt.Password.RequireDigit = false;
+                opt.Password.RequireLowercase = false;
+                opt.Password.RequiredUniqueChars = 1;
+                opt.Password.RequiredLength = 3;
+                opt.Password.RequireNonAlphanumeric = false;
+                opt.Password.RequireUppercase = false;
+
+                opt.Lockout.MaxFailedAccessAttempts = 5;
+                opt.Lockout.DefaultLockoutTimeSpan = new TimeSpan(0, 5, 0);
+
+                opt.SignIn.RequireConfirmedEmail = true;
+            })
+                .AddEntityFrameworkStores<AppDbContext>()
+                .AddDefaultTokenProviders();
             services.AddDbContext<AppDbContext>(opt =>
             {
-                opt.UseMySQL(Configuration.GetConnectionString("DEV"));
+                opt.UseMySQL(Configuration.GetConnectionString("DEV"),b => b.MigrationsAssembly("Web_Stock_Market"));
             });
+            
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
