@@ -582,7 +582,6 @@ D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Pr
 D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
 D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
 D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
 D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
 D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
 D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
@@ -744,5 +743,6 @@ D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Pr
 D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\obj\Debug\netcoreapp3.1\Razor\Views\User\Login.cshtml.g.cs
 D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\obj\Debug\netcoreapp3.1\Razor\Views\User\Register.cshtml.g.cs
 D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\obj\Debug\netcoreapp3.1\Razor\Views\Home\Profile.cshtml.g.cs
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
 D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\obj\Debug\netcoreapp3.1\Web_Stock_Market.csproj.CoreCompileInputs.cache
 D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Web_Stock_Market\obj\Debug\netcoreapp3.1\Web_Stock_Market.MvcApplicationPartsAssemblyInfo.cache

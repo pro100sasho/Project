@@ -6,6 +6,8 @@ using Data.Entities;
 using Data.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using MySql.Data.MySqlClient;
 
 namespace Web_Stock_Market.Controllers
 {
@@ -33,23 +35,72 @@ namespace Web_Stock_Market.Controllers
             {
                 User user = new User()
                 {
+                    Email = registerUser.Email,
+                    UserName = registerUser.Username,
                     FirstName = registerUser.FirstName,
-                    LastName = registerUser.LastName,
-                    Email = registerUser.Email
+                    LastName = registerUser.LastName
                 };
-                IdentityResult result = await this._userManager.CreateAsync(user, registerUser.Password);
+
+                IdentityResult result = null;
+                try
+                {
+                    result = await _userManager.CreateAsync(user, registerUser.Password);
+                    if (result.Succeeded)
+                    {
+                        return RedirectToAction(nameof(Index), "Home");
+                    }
+                    foreach (var error in result.Errors)
+                    {
+                        ModelState.AddModelError("", error.Description);
+                    }
+                }                
+                catch(DbUpdateException ex)
+                {
+                    
+                    if (ex.InnerException.Message == $"Duplicate entry '{user.Email}' for key 'aspnetusers.Email'")
+                    {
+                        ModelState.AddModelError("", $"Email {user.Email} is taken");
+                    }
+                    else
+                    {
+                        throw ex;
+                    }
+                    
+                }
             }
 
-            return View(registerUser);
-           
+            return View(registerUser);         
         }
 
-
-
-
+        [HttpGet]
         public IActionResult Login()
         {
             return View();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Login(LoginUser loginUser)
+        {
+            if (ModelState.IsValid)
+            {
+                User user = await this._userManager.GetUserAsync(User);
+
+                var result = await _signInManager.PasswordSignInAsync(loginUser.Username, loginUser.Password, loginUser.RememberMe, false);
+
+                if (result.Succeeded)
+                {
+                    return RedirectToAction(nameof(Index), "Home");
+                }
+                ModelState.AddModelError("", "Login failed");
+
+            }
+            return View(loginUser);
+        }
+
+        public async Task<IActionResult> Logout()
+        {
+            await this._signInManager.SignOutAsync();
+            return RedirectToAction(nameof(Index), "Product");
         }
     }
 }

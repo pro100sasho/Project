@@ -27,22 +27,7 @@ namespace Web_Stock_Market
         {
             services.AddControllersWithViews();
             services.AddTransient<ProductServices, ProductServices>();
-            services.AddIdentity<User, IdentityRole>(opt =>
-            {
-                opt.Password.RequireDigit = false;
-                opt.Password.RequireLowercase = false;
-                opt.Password.RequiredUniqueChars = 1;
-                opt.Password.RequiredLength = 3;
-                opt.Password.RequireNonAlphanumeric = false;
-                opt.Password.RequireUppercase = false;
-
-                opt.Lockout.MaxFailedAccessAttempts = 5;
-                opt.Lockout.DefaultLockoutTimeSpan = new TimeSpan(0, 5, 0);
-
-                opt.SignIn.RequireConfirmedEmail = true;
-            })
-                .AddEntityFrameworkStores<AppDbContext>()
-                .AddDefaultTokenProviders();
+            services.AddIdentity<User, IdentityRole>().AddEntityFrameworkStores<AppDbContext>();
             services.AddDbContext<AppDbContext>(opt =>
             {
                 opt.UseMySQL(Configuration.GetConnectionString("DEV"),b => b.MigrationsAssembly("Web_Stock_Market"));
@@ -69,6 +54,7 @@ namespace Web_Stock_Market
             app.UseRouting();
 
             app.UseAuthorization();
+            app.UseAuthentication();
 
             app.UseEndpoints(endpoints =>
             {

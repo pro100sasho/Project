@@ -1,14 +1,14 @@
 ﻿using Data.Entities;
-using Data.Models;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using System;
 
 namespace Data
 {
-    public class AppDbContext : DbContext
+    public class AppDbContext : IdentityDbContext<User>
     {
         public DbSet<Product> Products { get; set; }
+        //public DbSet<User> Users { get; set; }
 
         public AppDbContext(DbContextOptions options)
             : base(options)
@@ -16,12 +16,11 @@ namespace Data
 
         }
 
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
-        {
-            modelBuilder.Entity<ProductDto>(entity =>
-            {
-                entity.HasIndex(e => e.Name).IsUnique();
-            });           
-        }
+        //protected override void OnModelCreating(ModelBuilder builder)
+        //{
+        //    builder.Entity<User>()
+        //           .HasIndex(b => b.Email)
+        //           .IsUnique();
+        //}
     }
 }

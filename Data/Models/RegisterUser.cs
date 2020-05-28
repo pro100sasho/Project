@@ -12,6 +12,10 @@ namespace Data.Models
         public string Email { get; set; }
 
         [Required]
+        [StringLength(64)]
+        public string Username { get; set; }
+
+        [Required]
         [StringLength(30)]
         public string FirstName { get; set; }
 

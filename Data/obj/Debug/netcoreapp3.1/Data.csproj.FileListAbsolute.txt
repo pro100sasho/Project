@@ -33,3 +33,7 @@ D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Pr
 D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
 D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Data\obj\Debug\netcoreapp3.1\Data.dll
 D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Data\obj\Debug\netcoreapp3.1\Data.pdb
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+D:\I.T. Career\2ра година\2020 IT Career Project allOver\Last Version\Project\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
