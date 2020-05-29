@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Data</name>
+    </assembly>
+    <members>
+        <member name="T:Data.Entities.User">
+            <summary>
+            App implementation of IdentityUser
+            </summary>
+        </member>
+        <member name="P:Data.Entities.User.FirstName">
+            <summary>
+            Gets or Sets the first name of the User
+            </summary>
+        </member>
+        <member name="P:Data.Entities.User.LastName">
+            <summary>
+            Gets or Sets the last name of the User
+            </summary>
+        </member>
+        <member name="P:Data.Entities.User.Balance">
+            <summary>
+            Gets or Sets the money balance of the User
+            </summary>
+        </member>
+    </members>
+</doc>
