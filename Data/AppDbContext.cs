@@ -16,11 +16,18 @@ namespace Data
 
         }
 
-        //protected override void OnModelCreating(ModelBuilder builder)
+        //protected override void OnModelCreating(ModelBuilder modelBuilder)
         //{
-        //    builder.Entity<User>()
-        //           .HasIndex(b => b.Email)
-        //           .IsUnique();
+        //    base.OnModelCreating(modelBuilder);
+        //    modelBuilder.Entity<User>().ToTable("aspnetusers");
+        //    modelBuilder.Entity<IdentityRole<string>>().ToTable("aspnetroles");
+        //    modelBuilder.Entity<IdentityUserToken<string>>().ToTable("aspnetusertokens");
+        //    modelBuilder.Entity<IdentityUserClaim<string>>().ToTable("aspnetuserclaims");
+        //    modelBuilder.Entity<IdentityUserLogin<string>>().ToTable("aspnetuserlogins");
+        //    modelBuilder.Entity<IdentityRoleClaim<string>>().ToTable("aspnetroleclaims");
+        //    modelBuilder.Entity<IdentityUserRole<string>>().ToTable("aspnetuserroles");
+
+
         //}
     }
 }

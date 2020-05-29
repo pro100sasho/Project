@@ -89,7 +89,7 @@ namespace Web_Stock_Market.Controllers
 
                 if (result.Succeeded)
                 {
-                    return RedirectToAction(nameof(Index), "Home");
+                    return RedirectToAction(nameof(Index), "Product");
                 }
                 ModelState.AddModelError("", "Login failed");
 
