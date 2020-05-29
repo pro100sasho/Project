@@ -1,13 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Data.Entities;
+﻿using Data.Entities;
 using Data.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using MySql.Data.MySqlClient;
+using System;
+using System.Threading.Tasks;
 
 namespace Web_Stock_Market.Controllers
 {
@@ -53,10 +50,10 @@ namespace Web_Stock_Market.Controllers
                     {
                         ModelState.AddModelError("", error.Description);
                     }
-                }                
-                catch(DbUpdateException ex)
+                }
+                catch (DbUpdateException ex)
                 {
-                    
+
                     if (ex.InnerException.Message == $"Duplicate entry '{user.Email}' for key 'aspnetusers.Email'")
                     {
                         ModelState.AddModelError("", $"Email {user.Email} is taken");
@@ -65,11 +62,11 @@ namespace Web_Stock_Market.Controllers
                     {
                         throw ex;
                     }
-                    
+
                 }
             }
 
-            return View(registerUser);         
+            return View(registerUser);
         }
 
         [HttpGet]
@@ -107,6 +104,21 @@ namespace Web_Stock_Market.Controllers
         {
             user = await _userManager.GetUserAsync(User);
             return View(user);
+        }
+
+        [HttpGet]
+        public IActionResult DepositIntoAccount()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> DepositIntoAccount(User user, decimal amount)
+        {
+            user = await _userManager.GetUserAsync(User);
+            user.Balance += amount;
+            await _userManager.UpdateAsync(user);
+            return RedirectToAction(nameof(Index), "Product");
         }
     }
 }
