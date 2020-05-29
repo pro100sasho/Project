@@ -15,7 +15,7 @@
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-dark border-bottom box-shadow mb-3">
             <div class="container">
-                <img style="margin-right:20px;margin-left:-50px;" src="~/images/headerlogo.png" class="img-responsive" height="35" width="90" alt="" />
+                <img style="margin-right:20px" src="~/images/headerlogo.png" class="img-responsive" height="35" width="90" alt="" />
 
                 <a class="navbar-brand text-white" asp-area="" asp-controller="Home" asp-action="Index">WebStockMarket</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
@@ -36,8 +36,8 @@
                             <li class="nav-item">
                                 <a class="nav-link text-white" asp-area="" asp-controller="User" asp-action="Info">Profile</a>
                             </li>
-                            <li style="margin-left:50%" class="nav-item">
-                                <span class="label text-white">Username: @User.Identity.Name</span>  <a class="btn btn-outline-info text-white" asp-area="" asp-controller="User" asp-action="Logout" style="margin-left:10%">Logout</a>
+                            <li style="margin-left:35%" class="nav-item">
+                                <a class="btn btn-outline-info text-white" asp-area="" asp-controller="User" asp-action="Logout">Logout</a> <span class="label text-white">@User.Identity.Name</span>
                             </li>
                         }
                         else
@@ -60,7 +60,11 @@
         </main>
     </div>
 
-   
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2020 - Web_Stock_Market - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
