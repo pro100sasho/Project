@@ -102,5 +102,11 @@ namespace Web_Stock_Market.Controllers
             await this._signInManager.SignOutAsync();
             return RedirectToAction(nameof(Index), "Product");
         }
+
+        public async Task<IActionResult> Info(User user)
+        {
+            user = await _userManager.GetUserAsync(User);
+            return View(user);
+        }
     }
 }

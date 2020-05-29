@@ -1,4 +1,8 @@
-﻿<!DOCTYPE html>
+﻿@using Microsoft.AspNetCore.Identity;
+@using Data.Entities
+@inject SignInManager<User> signinManager;
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -11,8 +15,8 @@
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-dark border-bottom box-shadow mb-3">
             <div class="container">
-                <img style="margin-right:20px" src="~/images/headerlogo.png" class="img-responsive" height="35" width="90"  alt="" />
-              
+                <img style="margin-right:20px" src="~/images/headerlogo.png" class="img-responsive" height="35" width="90" alt="" />
+
                 <a class="navbar-brand text-white" asp-area="" asp-controller="Home" asp-action="Index">WebStockMarket</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
@@ -21,24 +25,30 @@
                 <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
-                            <a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
-
-                        </li>
-                        <li class="nav-item">
                             <a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-white" asp-area="" asp-controller="Product" asp-action="Index">Products</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Profile">Profile</a>
-                        </li>
-                        <li style="margin-left:50%" class="nav-item">
-                            <a class="btn btn-success text-dark" asp-area="" asp-controller="User" asp-action="Register">Register</a>
-                        </li>
-                        <li style="margin-left:7px" class="nav-item">
-                            <a class="btn btn-success text-dark" asp-area="" asp-controller="User" asp-action="Login">Login</a>
-                        </li>
+
+                        @if (this.signinManager.IsSignedIn(User))
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-white" asp-area="" asp-controller="User" asp-action="Info">Profile</a>
+                            </li>
+                            <li style="margin-left:35%" class="nav-item">
+                                <a class="btn btn-outline-info text-white" asp-area="" asp-controller="User" asp-action="Logout">Logout</a> <span class="label text-white">@User.Identity.Name</span>
+                            </li>
+                        }
+                        else
+                        {
+                            <li style="margin-left:50%" class="nav-item">
+                                <a class="btn btn-success text-white" asp-area="" asp-controller="User" asp-action="Register">Register</a>
+                            </li>
+                            <li style="margin-left:7px" class="nav-item">
+                                <a class="btn btn-success text-white" asp-area="" asp-controller="User" asp-action="Login">Login</a>
+                            </li>
+                        }
                     </ul>
                 </div>
             </div>
