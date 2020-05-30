@@ -30,5 +30,7 @@ namespace Data.Entities
         [DefaultValue(0.00)]
         [Range(0, double.MaxValue)]
         public decimal Balance { get; set; }
+
+        public bool LoggedIn { get; set; }
     }
 }

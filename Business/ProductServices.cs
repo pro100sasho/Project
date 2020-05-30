@@ -97,12 +97,10 @@ namespace Business
 
             if (quantity > product.Quantity)
             {
-                _context.Products.Remove(product);                
+                quantity = product.Quantity;               
             }
-            else
-            {
-                product.Quantity -= quantity;
-            }
+               product.Quantity -= quantity;
+            
             _context.SaveChanges();
             
         }
@@ -110,6 +108,7 @@ namespace Business
         {
             Product product = _context.Products
                 .FirstOrDefault(m => m.Id == id);
+           
 
             return product.Quantity;
         }
@@ -130,7 +129,8 @@ namespace Business
                 Id = productDto.Id,
                 Name = productDto.Name,
                 Price = productDto.Price,
-                Quantity = productDto.Quantity
+                Quantity = productDto.Quantity,
+                SellerId = productDto.SellerId
             };
         }
     }

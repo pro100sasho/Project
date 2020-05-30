@@ -2,7 +2,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Data.Entities;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
@@ -13,6 +15,7 @@ namespace Web_Stock_Market
     {
         public static void Main(string[] args)
         {
+            
             CreateHostBuilder(args).Build().Run();
         }
 
@@ -24,4 +27,4 @@ namespace Web_Stock_Market
                 });
     }
 }
-//Check Migrations, IdentityDbContext inheritence, ?Database link to the frontend part of the app?
+

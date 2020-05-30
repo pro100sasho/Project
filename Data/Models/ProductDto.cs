@@ -19,5 +19,7 @@ namespace Data.Models
 
         [DefaultValue(0.00)]
         public decimal Price { get; set; }
+
+        public string SellerId { get; set; }
     }
 }

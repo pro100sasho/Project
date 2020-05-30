@@ -17,16 +17,28 @@ namespace Web_Stock_Market.Controllers
         private readonly ProductServices productServices;
         private readonly UserManager<User> _userManager;
 
+
         public ProductController(AppDbContext context, ProductServices productServices, UserManager<User> userManager)
         {
             this._context = context;
             this.productServices = productServices;
             this._userManager = userManager;
+            
+            if (_context.Users.Any(u => u.LoggedIn))
+            {
+                SellerId = _context.Users.Single(u => u.LoggedIn).Id;
+            }
         }
-
-        public IActionResult Index()
+        
+        public static string SellerId { get; set; }
+        public IActionResult Marketplace()
         {
             List<Product> products = productServices.GetAll();
+            return View(products);
+        }
+        public IActionResult MyProducts()
+        {
+            List<Product> products = productServices.GetAll().Where(x => x.SellerId == SellerId).ToList(); 
             return View(products);
         }
 
@@ -48,8 +60,9 @@ namespace Web_Stock_Market.Controllers
         {
             if (ModelState.IsValid)
             {
+                product.SellerId = SellerId;
                 productServices.Create(product);
-                return RedirectToAction(nameof(Index));
+                return RedirectToAction(nameof(MyProducts));
             }
             return View(product);
         }
@@ -68,7 +81,7 @@ namespace Web_Stock_Market.Controllers
             if (ModelState.IsValid)
             {
                 productServices.Edit(id, product);
-                return RedirectToAction(nameof(Index));
+                return RedirectToAction(nameof(MyProducts));
             }
             return View(product);
         }
@@ -85,7 +98,7 @@ namespace Web_Stock_Market.Controllers
         {
             productServices.Delete(id);
             
-            return RedirectToAction(nameof(Index));
+            return RedirectToAction(nameof(MyProducts));
         }       
     }
 }

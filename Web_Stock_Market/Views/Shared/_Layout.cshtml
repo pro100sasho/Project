@@ -1,5 +1,6 @@
 ﻿@using Microsoft.AspNetCore.Identity;
 @using Data.Entities
+
 @inject SignInManager<User> signinManager;
 
 <!DOCTYPE html>
@@ -14,8 +15,8 @@
 <body>
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-dark border-bottom box-shadow mb-3">
-            <div class="container">
-                <img style="margin-right:20px;margin-left:-50px;" src="~/images/headerlogo.png" class="img-responsive" height="35" width="90" alt="" />
+            <div class="container" style="max-width:100%">
+                <img style="margin-right:20px" src="~/images/headerlogo.png" class="img-responsive" height="35" width="90" alt="" />
 
                 <a class="navbar-brand text-white" asp-area="" asp-controller="Home" asp-action="Index">WebStockMarket</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
@@ -25,10 +26,7 @@
                 <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
-                            <a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-white" asp-area="" asp-controller="Product" asp-action="Index">Products</a>
+                            <a class="nav-link text-white" asp-area="" asp-controller="Product" asp-action="Marketplace">Marketplace</a>
                         </li>
 
                         @if (this.signinManager.IsSignedIn(User))
@@ -36,19 +34,34 @@
                             <li class="nav-item">
                                 <a class="nav-link text-white" asp-area="" asp-controller="User" asp-action="Info">Profile</a>
                             </li>
-                            <li style="margin-left:50%" class="nav-item">
-                                <span class="label text-white">Username: @User.Identity.Name</span>  <a class="btn btn-outline-info text-white" asp-area="" asp-controller="User" asp-action="Logout">Logout</a>
+                            <li class="nav-item">
+                                <a class="nav-link text-white" asp-area="" asp-controller="Product" asp-action="MyProducts">My Products</a>
+                            </li>
+                        }
+                    </ul>
+                    <ul style="position:fixed; right:20px" class="navbar-nav flex-grow-1">
+                        @if (this.signinManager.IsSignedIn(User))
+                        {
+
+                            <li style="margin-right:10px" class="nav-item">
+                                <a class="navbar-text text-white">Username: @User.Identity.Name</a>
+                            </li>
+                            <li style="margin-right:10px" class="nav-item">
+                                <a class="navbar-text text-white">Balance: @signinManager.UserManager.GetUserAsync(User).Result.Balance $</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="btn btn-outline-info text-white" asp-area="" asp-controller="User" asp-action="Logout">Logout</a>
                             </li>
                         }
                         else
                         {
-                            <li style="margin-left:50%" class="nav-item">
+                            <li class="nav-item">
                                 <a class="btn btn-success text-white" asp-area="" asp-controller="User" asp-action="Register">Register</a>
-                            </li>
-                            <li style="margin-left:7px" class="nav-item">
                                 <a class="btn btn-success text-white" asp-area="" asp-controller="User" asp-action="Login">Login</a>
                             </li>
+
                         }
+
                     </ul>
                 </div>
             </div>
@@ -60,7 +73,7 @@
         </main>
     </div>
 
-   
+
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>

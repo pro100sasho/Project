@@ -6,9 +6,9 @@
     <h1>Are you sure you want to sell this product?</h1>
 
     <div>
-        <h4>Product</h4>
         <hr />
         <form action="Sell" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <dl class="row">
                 <dt class="col-sm-2">
                     @Html.DisplayNameFor(model => model.Name)
@@ -36,12 +36,12 @@
                     <input class="form-control" type="text" name="quantity" />
                     <input type="hidden" asp-for="Id" />
                     <button style="margin-top:8px" class="btn btn-primary" type="submit">Sell</button>
+
+
                 </dd>
             </dl>
         </form>
     </div>
-        @*<form asp-action="Sell" method="post">
-            <input type="hidden" asp-for="Id" />
-            <input type="submit" value="Sell" class="btn btn-danger" /> |
-            <a asp-action="Index">Back to List</a>
-        </form>*@
+    <div>
+        <a class="btn btn-info text-white" asp-controller="Product" asp-action="MyProducts">Back to List</a>
+    </div>

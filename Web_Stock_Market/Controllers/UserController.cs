@@ -12,6 +12,7 @@ namespace Web_Stock_Market.Controllers
     {
         private readonly UserManager<User> _userManager;
         private readonly SignInManager<User> _signInManager;
+        
 
         public UserController(UserManager<User> userManager, SignInManager<User> signInManager)
         {
@@ -80,29 +81,38 @@ namespace Web_Stock_Market.Controllers
         {
             if (ModelState.IsValid)
             {
-                User user = await this._userManager.GetUserAsync(User);
+                //User user = await this._userManager.GetUserAsync(loginUser);
 
                 var result = await _signInManager.PasswordSignInAsync(loginUser.Username, loginUser.Password, loginUser.RememberMe, false);
 
                 if (result.Succeeded)
                 {
-                    return RedirectToAction(nameof(Index), "Product");
+                    
+                    return RedirectToAction(nameof(Info), "User");
                 }
                 ModelState.AddModelError("", "Login failed");
 
             }
+
             return View(loginUser);
         }
 
         public async Task<IActionResult> Logout()
         {
-            await this._signInManager.SignOutAsync();
-            return RedirectToAction(nameof(Index), "Product");
+            User user = await _userManager.GetUserAsync(User);
+            ProductController.SellerId = null;
+            user.LoggedIn = false;
+            _userManager.UpdateAsync(user);
+            await this._signInManager.SignOutAsync();           
+            return RedirectToAction(nameof(Index), "Home");
         }
 
         public async Task<IActionResult> Info(User user)
         {
             user = await _userManager.GetUserAsync(User);
+            ProductController.SellerId = user.Id;
+            user.LoggedIn = true;
+            _userManager.UpdateAsync(user);
             return View(user);
         }
 
@@ -115,10 +125,19 @@ namespace Web_Stock_Market.Controllers
         [HttpPost]
         public async Task<IActionResult> DepositIntoAccount(User user, decimal amount)
         {
-            user = await _userManager.GetUserAsync(User);
-            user.Balance += amount;
-            await _userManager.UpdateAsync(user);
-            return RedirectToAction(nameof(Index), "Product");
+            
+            if (amount <= 0)
+            {
+                ModelState.AddModelError("", "Can not deposit invalid amount of money!");
+            }
+            else
+            {
+                user = await _userManager.GetUserAsync(User);
+                user.Balance += amount;
+                await _userManager.UpdateAsync(user);
+                return RedirectToAction(nameof(Info), "User");
+            }
+            return View();
         }
     }
 }

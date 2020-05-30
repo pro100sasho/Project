@@ -23,6 +23,8 @@ namespace Web_Stock_Market.Controllers
             this._userManager = userManager;
         }
 
+
+        
         [HttpGet]
         public IActionResult Sell(int? id)
         {
@@ -33,16 +35,37 @@ namespace Web_Stock_Market.Controllers
         [HttpPost]
         public async Task<IActionResult> Sell(int? id, int quantity, User user)
         {
-            user = await _userManager.GetUserAsync(User);
-            int initialQuantity = productServices.GetQuantity(id);
-            productServices.Sell(id, quantity);
-            int quantityForPrice = initialQuantity - productServices.GetQuantity(id);
-            decimal priceToAdd = productServices.GetPrice(id) * quantityForPrice;
-            user.Balance += priceToAdd;
+            if(ModelState.IsValid)
+            {               
+                if (quantity <= 0 && user == null)
+                {
+                    ModelState.AddModelError("", "Can not sell invalid amount of product!");
+                }
+                else
+                {
+                    user = await _userManager.GetUserAsync(User);
+                    int initialQuantity = productServices.GetQuantity(id);
+                    productServices.Sell(id, quantity);
+                    decimal priceToAdd = GetPriceToAdd(id, initialQuantity);
+                    user.Balance += priceToAdd;
 
-            await _userManager.UpdateAsync(user);
+                    await _userManager.UpdateAsync(user);
+                    return RedirectToAction("MyProducts", "Product");
+                }               
+            }
 
-            return RedirectToAction(nameof(Index), "Product");           
+            return View(productServices.GetById(id));
+        }
+
+        private decimal GetPriceToAdd(int? id, int initialQuantity)
+        {
+            int quantityForPrice = 0;
+            decimal priceToAdd = 0;
+
+                quantityForPrice = initialQuantity - productServices.GetQuantity(id);
+                priceToAdd = productServices.GetPrice(id) * quantityForPrice;
+
+            return priceToAdd;
         }
     }
 }
