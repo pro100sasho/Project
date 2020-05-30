@@ -2,10 +2,12 @@
 using Data;
 using Data.Entities;
 using Data.Models;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net.Http.Headers;
+using System.Threading.Tasks;
 
 namespace Web_Stock_Market.Controllers
 {
@@ -13,11 +15,13 @@ namespace Web_Stock_Market.Controllers
     {
         private readonly AppDbContext _context;
         private readonly ProductServices productServices;
+        private readonly UserManager<User> _userManager;
 
-        public ProductController(AppDbContext context, ProductServices productServices)
+        public ProductController(AppDbContext context, ProductServices productServices, UserManager<User> userManager)
         {
             this._context = context;
             this.productServices = productServices;
+            this._userManager = userManager;
         }
 
         public IActionResult Index()

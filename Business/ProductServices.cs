@@ -34,8 +34,7 @@ namespace Business
                 .FirstOrDefault(m => m.Id == id);
             if (product == null)
             {
-                //throw new ProductNotFoundException("A product was not found");
-                throw new ArgumentNullException("Id must not be null");
+                throw new ArgumentNullException("A product was not found");
             }
             return product;
         }
@@ -66,8 +65,7 @@ namespace Business
 
                 if (product == null)
                 {
-                    //throw new ProductNotFoundException("A Product was not found");
-                    throw new ArgumentNullException("Id must not be null");
+                    throw new ArgumentNullException("A product was not found");
                 }
                 else
                 {
@@ -89,6 +87,38 @@ namespace Business
                        
             _context.Products.Remove(product);
             _context.SaveChanges();
+        }
+
+
+        public void Sell(int? id, int quantity)
+        {
+            Product product = _context.Products
+                .FirstOrDefault(m => m.Id == id);
+
+            if (quantity > product.Quantity)
+            {
+                _context.Products.Remove(product);                
+            }
+            else
+            {
+                product.Quantity -= quantity;
+            }
+            _context.SaveChanges();
+            
+        }
+        public int GetQuantity(int? id)
+        {
+            Product product = _context.Products
+                .FirstOrDefault(m => m.Id == id);
+
+            return product.Quantity;
+        }
+        public decimal GetPrice(int? id)
+        {
+            Product product = _context.Products
+                .FirstOrDefault(m => m.Id == id);
+
+            return product.Price;
         }
 
 

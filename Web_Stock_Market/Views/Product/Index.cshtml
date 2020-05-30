@@ -7,7 +7,7 @@
 <h1>All Products</h1>
 
 <p>
-    <a asp-action="Create">Create New</a>
+    <a class="btn btn-warning" asp-action="Create">Add Product</a>
 </p>
 <table class="table">
     <thead>
@@ -38,9 +38,10 @@
                     @Html.DisplayFor(modelItem => item.Quantity)
                 </td>
                 <td>
-                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                    <a class="btn btn-secondary" asp-action="Edit" asp-route-id="@item.Id">Edit</a> 
+                    <a class="btn btn-secondary" asp-action="Details" asp-route-id="@item.Id">Details</a> 
+                    <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.Id">Delete</a> 
+                    <a class="btn btn-success" asp-action="Sell" asp-controller="ProductSell" asp-route-id="@item.Id">Sell</a>
                 </td>
             </tr>
          }
