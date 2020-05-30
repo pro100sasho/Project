@@ -17,9 +17,10 @@ namespace Data.Models
 
         [Required]
         [StringLength(30)]
+        [Display(Name = "First name")]
         public string FirstName { get; set; }
 
-        
+        [Display(Name = "Last name")]
         [StringLength(50)]
         public string LastName { get; set; }
 

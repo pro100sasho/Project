@@ -100,7 +100,7 @@ namespace Web_Stock_Market.Controllers
             User user = await _userManager.GetUserAsync(User);
             ProductController.SellerId = null;
             user.LoggedIn = false;
-            _userManager.UpdateAsync(user);
+            await _userManager.UpdateAsync(user);
             await this._signInManager.SignOutAsync();           
             return RedirectToAction(nameof(Index), "Home");
         }
@@ -110,7 +110,7 @@ namespace Web_Stock_Market.Controllers
             user = await _userManager.GetUserAsync(User);
             ProductController.SellerId = user.Id;
             user.LoggedIn = true;
-            _userManager.UpdateAsync(user);
+            await _userManager.UpdateAsync(user);
             return View(user);
         }
 

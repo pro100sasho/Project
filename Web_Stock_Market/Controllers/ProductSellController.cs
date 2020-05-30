@@ -37,9 +37,13 @@ namespace Web_Stock_Market.Controllers
         {
             if(ModelState.IsValid)
             {               
-                if (quantity <= 0 && user == null)
+                if (quantity <= 0 )
                 {
                     ModelState.AddModelError("", "Can not sell invalid amount of product!");
+                }
+                else if (quantity > productServices.GetById(id).Quantity)
+                {
+                    ModelState.AddModelError("", "Insufficient quantity! Add more");
                 }
                 else
                 {
