@@ -80,6 +80,7 @@ namespace Web_Stock_Market.Controllers
         {
             if (ModelState.IsValid)
             {
+                product.SellerId = SellerId;
                 productServices.Edit(id, product);
                 return RedirectToAction(nameof(MyProducts));
             }

@@ -55,6 +55,7 @@ namespace Business
 
             try
             {
+                
                 returnProduct = _context.Update(this.OfProductDto(newProduct)).Entity;
                 _context.SaveChanges();
             }

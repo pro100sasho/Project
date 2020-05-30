@@ -81,8 +81,6 @@ namespace Web_Stock_Market.Controllers
         {
             if (ModelState.IsValid)
             {
-                //User user = await this._userManager.GetUserAsync(loginUser);
-
                 var result = await _signInManager.PasswordSignInAsync(loginUser.Username, loginUser.Password, loginUser.RememberMe, false);
 
                 if (result.Succeeded)
