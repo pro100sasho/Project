@@ -43,7 +43,7 @@ namespace Web_Stock_Market.Controllers
                 }
                 else if (quantity > productServices.GetById(id).Quantity)
                 {
-                    ModelState.AddModelError("", "Insufficient quantity! Add more");
+                    ModelState.AddModelError("", "Insufficient quantity!");
                 }
                 else
                 {
