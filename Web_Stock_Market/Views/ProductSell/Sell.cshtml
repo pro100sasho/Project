@@ -3,7 +3,7 @@
     ViewData["Title"] = "Sell";
 }
 
-    <h1>Are you sure you want to sell this product?</h1>
+    <h1>Are you sure you want to buy this product?</h1>
 
     <div>
         <hr />
@@ -29,13 +29,13 @@
                     @Html.DisplayFor(model => model.Quantity)
                 </dd>
                 <dt class="col-sm-2">
-                    How many @Html.DisplayFor(model => model.Name) you want to sell?
+                    How many @Html.DisplayFor(model => model.Name) you want to buy?
                 </dt>
                 <dd>
 
                     <input class="form-control" type="text" name="quantity" />
                     <input type="hidden" asp-for="Id" />
-                    <button style="margin-top:8px" class="btn btn-primary" type="submit">Sell</button>
+                    <button style="margin-top:8px" class="btn btn-primary" type="submit">Buy</button>
 
 
                 </dd>
@@ -43,5 +43,5 @@
         </form>
     </div>
     <div>
-        <a class="btn btn-info text-white" asp-controller="Product" asp-action="MyProducts">Back to List</a>
+        <a class="btn btn-info text-white" asp-controller="Product" asp-action="MarketPlace">Back to List</a>
     </div>

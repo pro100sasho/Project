@@ -101,7 +101,9 @@ namespace Business
                 quantity = product.Quantity;               
             }
                product.Quantity -= quantity;
-            
+
+            _context.Users.Single(i => i.Id == product.SellerId).Balance += quantity * product.Price;
+
             _context.SaveChanges();
             
         }

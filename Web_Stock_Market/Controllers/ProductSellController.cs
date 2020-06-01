@@ -7,6 +7,7 @@ using Data;
 using Data.Entities;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.CodeAnalysis.CSharp.Syntax;
 
 namespace Web_Stock_Market.Controllers
 {
@@ -39,7 +40,7 @@ namespace Web_Stock_Market.Controllers
             {               
                 if (quantity <= 0 )
                 {
-                    ModelState.AddModelError("", "Can not sell invalid amount of product!");
+                    ModelState.AddModelError("", "Can not buy invalid amount of product!");
                 }
                 else if (quantity > productServices.GetById(id).Quantity)
                 {
@@ -51,10 +52,10 @@ namespace Web_Stock_Market.Controllers
                     int initialQuantity = productServices.GetQuantity(id);
                     productServices.Sell(id, quantity);
                     decimal priceToAdd = GetPriceToAdd(id, initialQuantity);
-                    user.Balance += priceToAdd;
-
+                    user.Balance -= priceToAdd;
+                  
                     await _userManager.UpdateAsync(user);
-                    return RedirectToAction("MyProducts", "Product");
+                    return RedirectToAction("MyOffers", "Product");
                 }               
             }
 
@@ -71,5 +72,8 @@ namespace Web_Stock_Market.Controllers
 
             return priceToAdd;
         }
+
+
     }
+
 }

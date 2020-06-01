@@ -36,7 +36,7 @@ namespace Web_Stock_Market.Controllers
             List<Product> products = productServices.GetAll();
             return View(products);
         }
-        public IActionResult MyProducts()
+        public IActionResult MyOffers()
         {
             List<Product> products = productServices.GetAll().Where(x => x.SellerId == SellerId).ToList(); 
             return View(products);
@@ -62,7 +62,7 @@ namespace Web_Stock_Market.Controllers
             {
                 product.SellerId = SellerId;
                 productServices.Create(product);
-                return RedirectToAction(nameof(MyProducts));
+                return RedirectToAction(nameof(MyOffers));
             }
             return View(product);
         }
@@ -82,7 +82,7 @@ namespace Web_Stock_Market.Controllers
             {
                 product.SellerId = SellerId;
                 productServices.Edit(id, product);
-                return RedirectToAction(nameof(MyProducts));
+                return RedirectToAction(nameof(MyOffers));
             }
             return View(product);
         }
@@ -99,7 +99,7 @@ namespace Web_Stock_Market.Controllers
         {
             productServices.Delete(id);
             
-            return RedirectToAction(nameof(MyProducts));
+            return RedirectToAction(nameof(MyOffers));
         }       
     }
 }

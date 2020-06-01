@@ -1,5 +1,6 @@
 ﻿@model IEnumerable<Product>
 @inject Microsoft.AspNetCore.Identity.SignInManager<User> signInManager
+
 @{
     ViewData["Title"] = "Marketplace";
 }
@@ -28,21 +29,51 @@
     <tbody>
         @foreach (var item in Model)
         {
-        <tr>
+            <tr>
 
-            <td>
-                @Html.DisplayFor(modelItem => item.Name)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Price)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Quantity)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => signInManager.UserManager.FindByIdAsync(item.SellerId).Result.UserName)
-            </td>
-        </tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Price)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Quantity)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => signInManager.UserManager.FindByIdAsync(item.SellerId).Result.UserName)
+                </td>
+                <td>
+                    @if (item.SellerId != Web_Stock_Market.Controllers.ProductController.SellerId)
+                    {
+                        if (item.Quantity > 0)
+                        {
+
+                            if (Web_Stock_Market.Controllers.ProductController.SellerId == null)
+                            {
+                                <a class="btn btn-success" asp-action="Login" asp-controller="User" asp-route-id="@item.Id">Buy</a>
+                            }
+                            else
+                            {
+                                <a class="btn btn-success" asp-action="Sell" asp-controller="ProductSell" asp-route-id="@item.Id">Buy</a>
+                            }
+
+                        }
+                        else
+                        {
+                            <a class="btn btn-secondary text-white">Buy</a>
+                        }
+
+
+                    }
+                    else
+                    {
+                        <a class="btn btn-warning" asp-action="Edit" asp-route-id="@item.Id">Edit</a>
+                    }
+                </td>
+            </tr>
+
+           
         }
     </tbody>
 </table>

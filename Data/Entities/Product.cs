@@ -21,6 +21,7 @@ namespace Data.Entities
         [Range(0, double.MaxValue)]
         [DefaultValue(0.00)]
         public decimal Price { get; set; }
+
         [Display(Name = "Seller Username")]
         public string SellerId { get; set; }
     }
